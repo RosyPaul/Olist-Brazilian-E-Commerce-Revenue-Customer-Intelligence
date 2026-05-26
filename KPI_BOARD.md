@@ -12,6 +12,17 @@ Last updated: Day 1
 Revenue plateau is driven by repeat purchase failure, not acquisition failure.
 Delivery delays explain the 1-star concentration.
 
+## Proof:"Day 1 I noticed total orders and unique customers were almost identical — only 3,345 difference across 2 years of data. In a healthy e-commerce business that gap should be much larger. That told me retention was broken before I wrote a single SQL query."
+
+**Evidence from Day 1:**
+- 99,441 total orders
+- 96,096 unique customers
+- Difference = 3,345 repeat orders
+- Estimated repeat purchase rate = ~3.5%
+
+**Translation:** 96.5% of customers buy once and never return.
+This is the core business problem.
+
 ---
 
 ## KPIs
