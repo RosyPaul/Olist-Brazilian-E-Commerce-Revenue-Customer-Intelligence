@@ -1,0 +1,15 @@
+# Data
+data/
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
